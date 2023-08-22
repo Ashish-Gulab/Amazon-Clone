@@ -1,3 +1,3 @@
 # Amazon-Clone
 ## Click on the below link to visit the Todo-Mern-App..
-https://my-todo-mern-app.netlify.app/
+https://my-amazon-website-clone.netlify.app/
