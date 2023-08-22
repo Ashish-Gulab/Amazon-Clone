@@ -1,3 +1,3 @@
 # Amazon-Clone
-## Click below on the link to visit the site
-https://amazon-clone-by-ashish-gulab.netlify.app
+## Click on the below link to visit the Todo-Mern-App..
+https://my-todo-mern-app.netlify.app/
